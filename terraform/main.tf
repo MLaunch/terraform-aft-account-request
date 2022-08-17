@@ -7,7 +7,7 @@ module "sandbox4" {
    ManagedOrganizationalUnit = "Sandbox"
    SSOUserEmail              = "aws-sandbox-account-test4@gdit.com"
    SSOUserFirstName          = "Sandbox"
-   SSOUserLastName           = "Tester"
+   SSOUserLastName           = "Tester1"
  }
 
  account_tags = {
